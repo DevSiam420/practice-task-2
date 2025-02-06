@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    display: flex;
+}
+h1{
+    font-size: 40px;
+    color: darkorange;
+    text-align: center;
+    margin: 10px;
+}
+.first{
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 7px 5px 6px ;
+}
+.second{
+  
+    background-color: hotpink;
+    /* padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px ; */
+}
+.third{
+    background-color: darkcyan;
+    /* padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px ; */
+}
+.fourth{
+    background-color: slategray;
+    /* padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px ; */
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.Lorem{
+    background-color: gray;
+    border: 10px solid black;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1.5fr ); /* 3 equal columns */
+    gap: 10px; /* Space between grid items */
+
+}
+.Lorem p{
+    background-color: aquamarine;
+    border: 5px solid wheat;
+    border-radius: 3px ;
+    padding: 10px;
+    margin: 8px ;
+
+    
+}
